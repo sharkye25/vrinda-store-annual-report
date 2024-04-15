@@ -22,6 +22,8 @@ Problem Statements are -
 📦 Order Status Breakdown: Understand the various order statuses that occurred in 2023, shedding light on the distribution of completed, pending, or canceled orders.
 🗺 Top 5 Contributing States: Identify the top five states that significantly contributed to Vrinda Store's sales, guiding regional marketing and operational strategies for enhanced performance.
 
+Linkedin - https://www.linkedin.com/posts/md-sharique-salim-a25539209_salesanalysis-customerinsights-datadrivendecisions-activity-7126785945139331072-kcVL?utm_source=share&utm_medium=member_desktop
+
 👫👱‍♂️ Age & Gender Order Correlation: Unveil the relationship between age and gender concerning the volume of orders, providing insights into purchasing behavior among different demographics.
 
 📱 Channel Contribution to Sales: Evaluate and understand which sales channels played a pivotal role in driving maximum sales for Vrinda Store in 2023.
